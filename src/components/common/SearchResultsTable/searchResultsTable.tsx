@@ -17,7 +17,6 @@ import {
   Rating,
   Stack,
   styled,
-  Box,
 } from '@mui/material';
 import React, { useState } from 'react';
 
